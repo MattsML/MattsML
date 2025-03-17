@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Matt! 
 
-<!--
-**MattsML/MattsML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Professional Engineer | AI & ML Enthusiast**  
+🧠 Passionate about solving deep technical challenges with cutting-edge technologies.  
+📊 Skilled in **Software Development**, **Modeling & Simulation**, **Prototyping**, and **Project Management**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ **Tech Stack & Expertise**  
+💻 **Programming**: Python | C++ | SQL | Bash  
+🤖 **AI & ML**: PyTorch | (🚧 Under Development)  
+🛠 **Engineering & Modeling**: MATLAB | Simulink | Simulation Tools | GNU Radio
+
+---
+
+## 🚀 **Featured Projects**
+🔹 [**Project Name**](#) - Short description of project (🔗 [GitHub Repo](#))  
+🔹 [**Project Name**](#) - Short description of project (🔗 [GitHub Repo](#))  
+
+---
+
+## 📫 **Let's Connect!**  
+💼 [LinkedIn](https://www.linkedin.com/in/matthew-slater-97a8a3208)
